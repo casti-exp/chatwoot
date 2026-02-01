@@ -372,6 +372,22 @@
         "PARTIALLY_FULFILLED": "Partially Fulfilled",
         "UNFULFILLED": "Unfulfilled"
       }
+    },
+    "TIENDANUBE": {
+      "ORDER_ID": "Order #{id}",
+      "ERROR": "Error loading orders",
+      "NO_ORDERS": "No orders found",
+      "NO_DATA": "No email or phone number available to search orders",
+      "FINANCIAL_STATUS": {
+        "PENDING": "Pending",
+        "PAID": "Paid",
+        "REFUNDED": "Refunded"
+      },
+      "FULFILLMENT_STATUS": {
+        "FULFILLED": "Fulfilled",
+        "PARTIAL": "Partially Fulfilled",
+        "UNFULFILLED": "Unfulfilled"
+      }
     }
   },
   "CONVERSATION_CUSTOM_ATTRIBUTES": {
